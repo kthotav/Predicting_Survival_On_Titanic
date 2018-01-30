@@ -10,14 +10,14 @@ You will need `python 3` installed to run __Predicting Survival on the Titanic.i
 ```
 % git clone git@github.com:kthotav/Predicting_Survival_On_Titanic.git
 
-% Predicting_Survival_On_Titanic
+% cd Predicting_Survival_On_Titanic
 
 % jupyter notebook
 
 ```
 
 ## Exploratory Data Analysis (EDA) and Visualizations
-
+![Image of Visualizations](https://github.com/kthotav/Predicting_Survival_On_Titanic/blob/master/output_9_1.png)
 
 
 
