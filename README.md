@@ -1,5 +1,5 @@
 # Predicting_Survival_On_Titanic
-Predicting Survival on the Titanic using Logistic Regression
+Predicting Survival on the Titanic using Logistic Regression  
 [Live Demo](http://kthotav.github.io/ds_projects/Predicting_Survival_on_the_Titanic.html)
 
 ## Installation  
